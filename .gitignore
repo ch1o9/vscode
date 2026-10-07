@@ -1,0 +1,9 @@
+# C++编译产物，不要上传
+*.exe
+*.out
+*.obj
+*.lib
+*.dll
+
+# vscode本地配置，可选
+.vscode/c_cpp_properties.json
